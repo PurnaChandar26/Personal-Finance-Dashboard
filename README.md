@@ -28,11 +28,7 @@ To harness the power of the `Personal-Finance-Dashboard` Power BI project, follo
 
 1\. **Clone the Repository:** Clone this repository to your local machine using the following command:
 
-   ```
-
-   git clone https://github.com/your-username/Personal-Finance-Dashboard.git
-
-   ```
+   ```git clone https://github.com/your-username/Personal-Finance-Dashboard.git ```
 
 2\. **Download Power BI Desktop:** If not already installed, download and install [Power BI Desktop](https://powerbi.microsoft.com/desktop/).
 
