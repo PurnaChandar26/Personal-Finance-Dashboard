@@ -28,7 +28,7 @@ To leverage the capabilities of the `Personal-Finance-Dashboard` Power BI projec
 
    ```
 
-   git clone https://github.com/your-username/Personal-Finance-Dashboard.git
+   git clone [https://github.com/your-username/Personal-Finance-Dashboard.git](https://github.com/PurnaChandar26/Personal-Finance-Dashboard)
 
    ```
 
