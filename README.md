@@ -22,7 +22,7 @@ The `Personal-Finance-Dashboard` is a dynamic Power BI application that transfor
 
 - **Savings Overview:** Monitor your savings progress and strategies, ensuring you're on track to achieve your financial objectives.
 
-## Usage
+## Usage:
 
 To harness the power of the `Personal-Finance-Dashboard` Power BI project, follow these steps:
 
