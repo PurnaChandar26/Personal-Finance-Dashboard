@@ -6,7 +6,7 @@ Welcome to the `Personal-Finance-Dashboard` GitHub repository! This project show
 ![Screenshot (19)](https://github.com/PurnaChandar26/Personal-Finance-Dashboard/assets/97793147/88552147-cb38-4c7f-abf9-b0c64eeeeda2)
 
 
-## Description
+## Description:
 
 The `Personal-Finance-Dashboard` is a dynamic Power BI application that transforms your finance data into meaningful visualizations. With a focus on "How Do I Spend?" and "How Do I Save?" categories, this dashboard offers a comprehensive overview of your financial habits. Dive into your spending patterns, understand your savings strategies, and make informed financial decisions to achieve your goals.
 
