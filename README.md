@@ -1,7 +1,7 @@
 Personal Finance Dashboard - Power BI  
 ===================================== 
 
-Welcome to the `Personal-Finance-Dashboard` GitHub repository! This project showcases an interactive financial dashboard powered by Power BI, designed to provide you with insightful visualizations and analyses of your financial activities.
+Welcome to the `Personal Finance Dashboard` GitHub repository! This project showcases an interactive financial dashboard powered by Power BI, designed to provide you with insightful visualizations and analyses of your financial activities.
 
 ![Screenshot (19)](https://github.com/PurnaChandar26/Personal-Finance-Dashboard/assets/97793147/88552147-cb38-4c7f-abf9-b0c64eeeeda2)
 
